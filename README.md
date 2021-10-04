@@ -1,6 +1,4 @@
-# Introduce
-
-Hello world, my name is <b>Randi Firmansyah</b>.
+# Hello world, my name is <b>Randi Firmansyah</b>.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
