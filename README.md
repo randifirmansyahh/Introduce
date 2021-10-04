@@ -1,8 +1,7 @@
-# Hello world 👋 my name is <b>Randi Firmansyah</b>.
-
 [![Linkedin Badge](https://img.shields.io/badge/-randifirmansyah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randi-firmansyah-02a1371a1/)](https://www.linkedin.com/in/randi-firmansyah-02a1371a1/)
 [![Gmail Badge](https://img.shields.io/badge/-randykelvin26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:randykelvin26@gmail.com)](mailto:randykelvin26@gmail.com) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Hello world 👋 my name is <b>Randi Firmansyah</b>.
 
 <br>
 
