@@ -2,7 +2,7 @@
 
 Hello world, my name is Randi Firmansyah.
 
-My Portfolio :
+<b>My Portfolio : </b>
 https://randifirmansyahh.github.io/
 
 LinkedIn :
