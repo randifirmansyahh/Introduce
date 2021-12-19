@@ -42,7 +42,7 @@
 <br>
 
 ## 🍎Charity
-- [Paypal](https://www.paypal.com/myaccount/transfer/homepage/pay/) + randykelvin26@gmail.com 
+- [Paypal](https://www.paypal.com/paypalme/randykelvin)
 - [Saweria](https://saweria.co/randifirmansyah)
 
 <br>
